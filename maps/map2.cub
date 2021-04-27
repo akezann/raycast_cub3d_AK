@@ -1,0 +1,22 @@
+R     1800      1000
+
+                    NO ./textures/redbrick.xpm
+        SO ./textures/bluestone.xpm
+WE       ./textures/eagle.xpm
+EA     ./textures/colorstone.xpm
+
+S ./textures/barrel.xpm
+
+C  245,  255,220
+F  51,  255,12
+
+1111111111111
+1122222222221
+1200000000021
+1200010001211
+12001N0111101
+1200010101021
+1200000101021
+1222222220001
+1111111111111
+       
